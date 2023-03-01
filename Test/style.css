@@ -1,14 +1,14 @@
 .grid-container-1
 {
-  margin-top: 20px;
+  margin-top: 25px;
   margin-left: 300px;
-  margin-right: 319px;
-  margin-bottom: 20px;
+  margin-right: 300px;
+  margin-bottom: 25px;
   border: 3px solid black;
   display: grid;
   grid-template-columns: auto auto;
   background-color: lightgreen;
-  border-radius: 20px;
+  border-radius: 25px;
 }
 
 .grid-item-1
@@ -35,7 +35,7 @@
   border: 1px solid black;
   margin-left: 299px;
   margin-top: 5px;
-  margin-right: 317px;
+  margin-right: 50px;
   margin-bottom: 15px;
 }
 
